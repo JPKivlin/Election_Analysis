@@ -7,5 +7,5 @@ The board of elections in the state of Colorado would like an audit performed of
 3.  the county with the highest turnout
 
 ## Resources
-- Data Source:  election_results.csv
+- Data Source:  [election_results.csv](resources/election_results.csv)
 - Software:  Python 3.8.8, Visual Studio Code, 1.58.2
