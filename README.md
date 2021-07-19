@@ -18,7 +18,7 @@ The board of elections in the state of Colorado would like an audit performed of
 - [Breakdown of number of votes and percentage of total votes by Candidate](Resources/breakdown_candidate.png)
 - The winner of the election was Diana DeGette: 73.8% of the total vote (272,892)
 
-## Electrion-Audit Smmary
+## Election-Audit Summary
 The script used in this analysis can be used for most election analysis with very few modifications, making it an ideal choice for future use by the Colorado board of elections.  Two modifications that could be mode are:
 1.  The variable used for county's can be renamed to allow for use however the voting is broken down
 2.  The results could be filtered to not include a candidate that received less than a certain amount of votes
