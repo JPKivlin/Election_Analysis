@@ -15,7 +15,7 @@ The board of elections in the state of Colorado would like an audit performed of
 - Total votes cast:  369,711
 - [Breakdown of number of votes and percentage of total votes by County](Resources/breakdown_county.png)
 - Denver had the largest number of votes (306,055)
-- [Breakdown of number of votes and percentage of total votes by Candidate](Resournces/breakdown_candidate.png)
+- [Breakdown of number of votes and percentage of total votes by Candidate](Resources/breakdown_candidate.png)
 - The winner of the election was Diana DeGette: 73.8% of the total vote (272,892)
 
 ## Electrion-Audit Smmary
